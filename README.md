@@ -4,6 +4,8 @@
 
 This repository offers pre-configured ZMK firmware. It's designed for the [Wireless Charybdis keyboards](https://github.com/280Zo/charybdis-wireless-mini-3x6-build-guide?tab=readme-ov-file), but is easily adaptable to other platforms. It supports the latest stable ZMK release (v0.4.1) with full Bluetooth/USB split and dongle build support (including Prospector dongles with displays), and uses the latest input listeners and processors for responsive pointer and scroll behavior.
 
+
+
 ## Overview & Usage
 
 <!-- ![stacked keymap](keymap-drawer/stacked/stacked.svg)
